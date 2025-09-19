@@ -1,4 +1,4 @@
-# ResTimer-Epoch
+# BGResTimer-Epoch
 BG Res Timer for Project Epoch
 
 Need "Capping" addon for it to work, can download it from here: https://warperia.com/addon-wotlk/capping/
